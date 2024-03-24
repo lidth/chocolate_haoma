@@ -1,0 +1,22 @@
+div.div_banner{
+    display: block;
+}
+
+    section.section_produtos{
+    padding: 30px 15px 0px;
+    background-color: #F6F3ED;
+}
+
+div.div_produto_container_main{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+}
+
+div.div_produtos_coluna{
+    display: flex;
+}
+
+div.div_produto-div{
+    margin-right: 9px;
+}
