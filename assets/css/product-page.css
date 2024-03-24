@@ -13,7 +13,7 @@ section.section_produto_image-name{
 }
 
 img.img_produto{
-    width: 360px;
+    width: 100%;
     height: 360px;
     border-radius: 5px;
 }

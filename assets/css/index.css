@@ -27,8 +27,6 @@ img.img_product-image{
 }
 
 div.div_produtos_coluna{
-    display: flex;
-    justify-content: space-between;
     align-items: center;
     margin-bottom: 50px;
 }
@@ -36,6 +34,8 @@ div.div_produtos_coluna{
 div.div_produto{
     width: 180px;
     text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
 }
 
 p.p_produto_name{
