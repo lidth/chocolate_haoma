@@ -73,6 +73,7 @@ img.img_descricao{
     display: block;
     margin: auto;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 p.p_descricao_text{
